@@ -40,7 +40,7 @@ ssh onto the box
 	
 	$ vagrant ssh
 
-horizons dashboard will be (or whatever you set has your host ip address to)
+horizons dashboard will be (or whatever you set as your host ip address to)
 	
 	http://192.168.33.111/dashboard
 
