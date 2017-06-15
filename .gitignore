@@ -1,0 +1,5 @@
+.vagrant/**
+.DS_Store
+docs/**
+*.qcow2*
+bio_env/**
